@@ -84,8 +84,9 @@
 - I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing pattern, which made me a very talented, accidental, unofficial OSINT investigator.
 - I love taking things apart, finding out how they work, changing how they work, and repairing or improving them in ways for which they were not originally designed. As a result, I generally can look at something and know how to assemble or disassemble it with ease. I will still use instructions or guides, but it is rare that I need them.
 
-### 🤝 Professional Affiliations and Memberships 🤝
-#### Clicking the image will redirect you to the affiliate website
+## <div align="center" dir="auto"> 🤝 Professional Affiliations and Memberships 🤝</div>
+#### <div align="center" dir="auto"> Clicking the image will redirect you to the affiliate website</div><br>
+<div align="center" dir="auto">
 <a href="https://www.nsls.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/nsls.png" width="65" height="65"/></a>
 <a href="https://www.wgu.edu/online-it-degrees/cyber-club.html"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wgucyber.png" width="65" height="65"/></a>
 <a href="https://www.wgu.edu/online-it-degrees/women-in-tech.html"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wit_wgu.png" width="65" height="65"/></a>
@@ -95,7 +96,7 @@
 <a href="https://www.wicysmilitary.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/WiCyS.png" width="65" height="65"/></a>
 <a href="https://womenscyberjutsu.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/WCJ.png" width="65" height="65"/></a>
 <a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/AFCEABA.png" width="65" height="65"/></a>
-<a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/slt.png" width="65" height="65"/></a>
+<a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/slt.png" width="65" height="65"/></a><br>
 <a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/isaca.png" width="65" height="65"/></a>
 <a href="https://www.issa.org/membership/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/issa.png" width="65" height="65"/></a>
 <a href="cyberstudents.org/about/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/ncw.png" width="65" height="65"/></a>
@@ -105,3 +106,4 @@
 <a href="https://www.womenindefense.net/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wid.png" width="65" height="65"/></a>
 <a href="https://www.ntsa.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/ntsa.png" width="65" height="65"/></a>
 <a href="https://www.emergingtechnologiesinstitute.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/eti.png" width="65" height="65"/></a>
+</div>
