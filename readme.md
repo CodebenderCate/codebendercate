@@ -47,9 +47,9 @@
 - Tools
 
 ### 🔭 I’m currently working on
-- CompTIA A+ 1101 & 1102 Certification
-- CompTIA Security+ SY0-601 Certification
-- Cisco CCNA 200-301 Certification using the 2021 Scott Wright Student Essay Contest prize winnings held in escrow
+- CompTIA [A+](https://www.comptia.org/certifications/a)
+- CompTIA [Security+](https://www.comptia.org/certifications/security)
+- Cisco [CCNA](https://www.netacad.com/courses/networking)
 
 ### 🌱 I’m currently learning from:
 #### I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
@@ -58,6 +58,7 @@
 - [Hack The Box](https://app.hackthebox.com/users/597984)
 - [PicoCTF](https://play.picoctf.org/users/C4ph3RT1g3R)
 - [TryHackMe](https://tryhackme.com/p/CypherTiger)
+- [SplunkWork+ For Veterans](https://workplus.splunk.com/veterans)
 
 ### 🔮 In the future I plan to work on:
 - CompTIA [Linux+](https://www.comptia.org/certifications/linux)
