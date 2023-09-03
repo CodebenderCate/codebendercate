@@ -1,6 +1,4 @@
-<div align="center" dir="auto">
-🖖 "Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide"🖖
- </div>
+<div align="center" dir="auto">🖖"<i>Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide</i>"🖖</div>
 
 ### 🎓 Education
 - High School Diploma
