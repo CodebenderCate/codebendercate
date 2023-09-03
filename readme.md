@@ -16,11 +16,9 @@
 ### 💂 Military
 - United States Army, 779th Engineering Battalion, 83rd Troop Command, 144th Transportation Company, Marianna, Florida
 - Initially enlisted as 91W Medic, I agreed to switch to 88M Motor Transport Operator to be assigned to a unit closer to my family.
-- Discharged July 26, 2007, following injuries received while on duty.
-- Served 1yr 6mos of my 8yr contract.
-= Qualified: M16A2, M249, M240B, M203, M1919, Grenade Throw, Rifle-Bayonet, Pugils, Hand-to-Hand
+- Discharged following injuries received while on duty.
+- Qualified: M16A2, M249, M240B, M203, M1919, Grenade Throw, Rifle-Bayonet, Pugils, Hand-to-Hand
 - Obtained college credit for US Army Transcripts
-- Used all earnings to assist in my sister's medical expenses relating to her kidney transplant.
 
 ### 🛡️ Certifications
 - ISC² Certified in Cybersecurity (exp 31Aug2026)
@@ -35,7 +33,7 @@
 
 ### 💻 Operating Systems:
 - Linux: Android, Kali, Debian, Ubuntu, Gentoo, Fedora, Red Hat
-= Microsoft: 95, 98, ME, 2000, ME, XP, XP Dark, Vista, 8, 10 (Home, Pro, Ent)
+- Microsoft: 95, 98, ME, 2000, ME, XP, XP Dark, Vista, 8, 10 (Home, Pro, Ent)
 - Other: Cisco, EyesofNetwork
 - I don't like Apple products but they're on the list to learn anyway.
 
