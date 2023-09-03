@@ -51,11 +51,11 @@
 
 ### 🌱 I’m currently learning from:
 #### I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
-- [Codecademy]
-- [Hack The Box]
-- [CyberStart]
-- [PicoCTF]
-- [TryHackMe]
+- [BugCrowd](https://bugcrowd.com/C4ph3RT1g3R)
+- [Codecademy](https://www.codecademy.com/profiles/C4ph3rT1g3R)
+- [Hack The Box](https://app.hackthebox.com/users/597984)
+- [PicoCTF](https://play.picoctf.org/users/C4ph3RT1g3R)
+- [TryHackMe](https://tryhackme.com/p/CypherTiger)
 
 ### 🔮 In the future I plan to work on:
 - CompTIA [Linux+](https://www.comptia.org/certifications/linux)
@@ -70,11 +70,11 @@
 - NCL Code Mug
 
 ### 🏆 Competitions I frequent:
-- Please see my Information repo for more details
-- I am working on updating my write-ups
+- Please see my [Information](https://github.com/C4ph3RT1g3R/Cybersecurity-Information) repo for more details
+- I am working on updating my [write-ups](https://github.com/C4ph3RT1g3R/Write-Ups)
 
 ### 💬 Ask me about
-- My giant, fluffy, Maine Coon Cats
+- My giant, fluffy, Maine Coon [Cats](https://www.instagram.com/shadow.and.kira/)
 
 ### 😄 Pronouns:
 - She/Her/Hers
@@ -83,5 +83,24 @@
 - I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing pattern, which made me a very talented, accidental, unofficial OSINT investigator.
 - I love taking things apart, finding out how they work, changing how they work, and repairing or improving them in ways for which they were not originally designed. As a result, I generally can look at something and know how to assemble or disassemble it with ease. I will still use instructions or guides, but it is rare that I need them.
 
-### <div align="center" dir="auto">🤝 Professional Affiliations and Memberships 🤝</div>
-<a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="" width="55" height="55"
+### <🤝 Professional Affiliations and Memberships 🤝
+#### Clicking the image will redirect you to the affiliate website
+<a href="https://www.nsls.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/nsls.png" width="65" height="65"/></a>
+<a href="https://www.wgu.edu/online-it-degrees/cyber-club.html"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wgucyber.png" width="65" height="65"/></a>
+<a href="https://www.wgu.edu/online-it-degrees/women-in-tech.html"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wit_wgu.png" width="65" height="65"/></a>
+<a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/RHP.png" width="65" height="65"/></a>
+<a href="https://nationalcyberleague.org/competition"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/NCL.png" width="65" height="65"/></a>
+<a href="https://connect.comptia.org/membership"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/Comptia.png" width="65" height="65"/></a>
+<a href="https://www.wicysmilitary.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/WiCyS.png" width="65" height="65"/></a>
+<a href="https://womenscyberjutsu.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/WCJ.png" width="65" height="65"/></a>
+<a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/AFCEABA.png" width="65" height="65"/></a>
+<a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/slt.png" width="65" height="65"/></a>
+<a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/isaca.png" width="65" height="65"/></a>
+<a href="https://www.issa.org/membership/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/issa.png" width="65" height="65"/></a>
+<a href="cyberstudents.org/about/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/ncw.png" width="65" height="65"/></a>
+<a href="https://iacr.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/iacr.png" width="65" height="65"/></a>
+<a href="https://swe.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/swe.png" width="65" height="65"/></a>
+<a href="https://www.ndia.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/ndia.png" width="65" height="65"/></a>
+<a href="https://www.womenindefense.net/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wid.png" width="65" height="65"/></a>
+<a href="https://www.ntsa.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/ntsa.png" width="65" height="65"/></a>
+<a href="https://www.emergingtechnologiesinstitute.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/eti.png" width="65" height="65"/></a>
