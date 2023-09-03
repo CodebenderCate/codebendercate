@@ -5,7 +5,6 @@
 <div align="center" dir="auto">🖖"<i>Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide</i>"🖖</div>
 
 ### 🎓 Education
-- High School Diploma
 - [Computer Information Systems](https://pensacolastate.smartcatalogiq.com/2018-2019/catalog/academic-programs/associate-in-arts-program/associate-in-arts-programs-of-study/computer-information-systems-advising-track/), AA (Oct 2018- Dec 2019)
 - [Cybersecurity, Information Security](https://pensacolastate.smartcatalogiq.com/2020-2021/catalog/programs-of-study/baccalaureate-degrees/baccalaureate-degree-programs/bas-cybersecurity/), BASc (Jan 2020 - May 2022)
 - [Cybersecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html), MSCSIA (due August 2025)
