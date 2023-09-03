@@ -1,3 +1,7 @@
+<div align="center" dir="auto">
+<a href="https://www.paramountplus.com/shows/star-trek-strange-new-worlds/?searchReferral=desktop-web&source=google-organic&ftag=PPM-23-10bfh8c"/a><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/NuSpock.jpg" width="400 height="100"/>
+</div>
+
 <div align="center" dir="auto">🖖"<i>Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide</i>"🖖</div>
 
 ### 🎓 Education
