@@ -84,7 +84,7 @@
 - I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing pattern, which made me a very talented, accidental, unofficial OSINT investigator.
 - I love taking things apart, finding out how they work, changing how they work, and repairing or improving them in ways for which they were not originally designed. As a result, I generally can look at something and know how to assemble or disassemble it with ease. I will still use instructions or guides, but it is rare that I need them.
 
-### <🤝 Professional Affiliations and Memberships 🤝
+### 🤝 Professional Affiliations and Memberships 🤝
 #### Clicking the image will redirect you to the affiliate website
 <a href="https://www.nsls.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/nsls.png" width="65" height="65"/></a>
 <a href="https://www.wgu.edu/online-it-degrees/cyber-club.html"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wgucyber.png" width="65" height="65"/></a>
