@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-<a href="https://www.paramountplus.com/shows/star-trek-strange-new-worlds/?searchReferral=desktop-web&source=google-organic&ftag=PPM-23-10bfh8c"/a><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/NuSpock.jpg" width="400 height="100"/>
+<a href="https://www.paramountplus.com/shows/star-trek-strange-new-worlds/?searchReferral=desktop-web&source=google-organic&ftag=PPM-23-10bfh8c"/a><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/NuSpock.jpg" width="400 height="100"/>
 </div>
 
 <div align="center" dir="auto">🖖"<i>Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide</i>"🖖</div>
@@ -42,7 +42,7 @@
 
 - Software: Visual Studio, Netbeans, Adobe Creative Suite, Microsoft Office 365, VMWare, VirtualBox,
 - Languages: HTML, PHP, Java, Javascript, Python, CScript
-- [Tools](https://github.com/C4ph3RT1g3R/Hacking-Tools)
+- [Tools](https://github.com/CodebenderCate/Hacking-Tools)
 
 ### 🔭 I’m currently working on
 - CompTIA [A+](https://www.comptia.org/certifications/a)
@@ -51,11 +51,11 @@
 
 ### 🌱 I’m currently learning from:
 #### I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
-- [BugCrowd](https://bugcrowd.com/C4ph3RT1g3R)
-- [Codecademy](https://www.codecademy.com/profiles/C4ph3rT1g3R)
+- [BugCrowd](https://bugcrowd.com/Codebender_Cate)
+- [Codecademy](https://www.codecademy.com/profiles/Codebender_Cate)
 - [Hack The Box](https://app.hackthebox.com/users/597984)
-- [PicoCTF](https://play.picoctf.org/users/C4ph3RT1g3R)
-- [TryHackMe](https://tryhackme.com/p/CypherTiger)
+- [PicoCTF](https://play.picoctf.org/users/Codebender_Cate)
+- [TryHackMe](https://tryhackme.com/p/Codebender_Cate)
 - [SplunkWork+ For Veterans](https://workplus.splunk.com/veterans)
 
 ### 🔮 In the future I plan to work on:
@@ -71,8 +71,8 @@
 - NCL Code Mug
 
 ### 🏆 Competitions I frequent:
-- Please see my [Information](https://github.com/C4ph3RT1g3R/Cybersecurity-Information) repo for more details
-- I am working on updating my [write-ups](https://github.com/C4ph3RT1g3R/Write-Ups)
+- Please see my [Information](https://github.com/CodebenderCate/Cybersecurity-Information) repo for more details
+- I am working on updating my [write-ups](https://github.com/CodebenderCate/Write-Ups)
 
 ### 💬 Ask me about
 - My giant, fluffy, Maine Coon [Cats](https://www.instagram.com/shadow.and.kira/)
@@ -87,23 +87,23 @@
 ## <div align="center" dir="auto"> 🤝 Professional Affiliations and Memberships 🤝</div>
 #### <div align="center" dir="auto"> Clicking the image will redirect you to the affiliate website</div><br>
 <div align="center" dir="auto">
-<a href="https://www.nsls.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/nsls.png" width="65" height="65"/></a>
-<a href="https://www.wgu.edu/online-it-degrees/cyber-club.html"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wgucyber.png" width="65" height="65"/></a>
-<a href="https://www.wgu.edu/online-it-degrees/women-in-tech.html"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wit_wgu.png" width="65" height="65"/></a>
-<a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/RHP.png" width="65" height="65"/></a>
-<a href="https://nationalcyberleague.org/competition"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/NCL.png" width="65" height="65"/></a>
-<a href="https://connect.comptia.org/membership"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/Comptia.png" width="65" height="65"/></a>
-<a href="https://www.wicysmilitary.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/WiCyS.png" width="65" height="65"/></a>
-<a href="https://womenscyberjutsu.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/WCJ.png" width="65" height="65"/></a>
-<a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/AFCEABA.png" width="65" height="65"/></a>
-<a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/slt.png" width="65" height="65"/></a><br>
-<a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/isaca.png" width="65" height="65"/></a>
-<a href="https://www.issa.org/membership/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/issa.png" width="65" height="65"/></a>
-<a href="cyberstudents.org/about/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/ncw.png" width="65" height="65"/></a>
-<a href="https://iacr.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/iacr.png" width="65" height="65"/></a>
-<a href="https://swe.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/swe.png" width="65" height="65"/></a>
-<a href="https://www.ndia.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/ndia.png" width="65" height="65"/></a>
-<a href="https://www.womenindefense.net/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/wid.png" width="65" height="65"/></a>
-<a href="https://www.ntsa.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/ntsa.png" width="65" height="65"/></a>
-<a href="https://www.emergingtechnologiesinstitute.org/"><img src="https://github.com/C4ph3RT1g3R/c4ph3rt1g3r/blob/main/Images/eti.png" width="65" height="65"/></a>
+<a href="https://www.nsls.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/nsls.png" width="65" height="65"/></a>
+<a href="https://www.wgu.edu/online-it-degrees/cyber-club.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wgucyber.png" width="65" height="65"/></a>
+<a href="https://www.wgu.edu/online-it-degrees/women-in-tech.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wit_wgu.png" width="65" height="65"/></a>
+<a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/RHP.png" width="65" height="65"/></a>
+<a href="https://nationalcyberleague.org/competition"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/NCL.png" width="65" height="65"/></a>
+<a href="https://connect.comptia.org/membership"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/Comptia.png" width="65" height="65"/></a>
+<a href="https://www.wicysmilitary.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WiCyS.png" width="65" height="65"/></a>
+<a href="https://womenscyberjutsu.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WCJ.png" width="65" height="65"/></a>
+<a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/AFCEABA.png" width="65" height="65"/></a>
+<a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/slt.png" width="65" height="65"/></a><br>
+<a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/isaca.png" width="65" height="65"/></a>
+<a href="https://www.issa.org/membership/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/issa.png" width="65" height="65"/></a>
+<a href="cyberstudents.org/about/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ncw.png" width="65" height="65"/></a>
+<a href="https://iacr.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/iacr.png" width="65" height="65"/></a>
+<a href="https://swe.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/swe.png" width="65" height="65"/></a>
+<a href="https://www.ndia.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ndia.png" width="65" height="65"/></a>
+<a href="https://www.womenindefense.net/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wid.png" width="65" height="65"/></a>
+<a href="https://www.ntsa.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ntsa.png" width="65" height="65"/></a>
+<a href="https://www.emergingtechnologiesinstitute.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/eti.png" width="65" height="65"/></a>
 </div>
