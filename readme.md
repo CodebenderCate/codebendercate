@@ -55,7 +55,7 @@
 - [Codecademy](https://www.codecademy.com/profiles/Codebender_Cate)
 - [Hack The Box](https://app.hackthebox.com/users/597984)
 - [PicoCTF](https://play.picoctf.org/users/Codebender_Cate)
-- [TryHackMe](https://tryhackme.com/p/Codebender_Cate)
+- [TryHackMe](https://tryhackme.com/p/CodebenderCate)
 - [SplunkWork+ For Veterans](https://workplus.splunk.com/veterans)
 
 ### 🔮 In the future I plan to work on:
