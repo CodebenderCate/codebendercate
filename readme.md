@@ -4,23 +4,23 @@
 
 <div align="center" dir="auto">🖖"<i>Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide</i>"🖖</div>
 
-### 🎓 Education
+### 🎓 Education:
 - [Computer Information Systems](https://pensacolastate.smartcatalogiq.com/2018-2019/catalog/academic-programs/associate-in-arts-program/associate-in-arts-programs-of-study/computer-information-systems-advising-track/), AA (Oct 2018- Dec 2019)
 - [Cybersecurity, Information Security](https://pensacolastate.smartcatalogiq.com/2020-2021/catalog/programs-of-study/baccalaureate-degrees/baccalaureate-degree-programs/bas-cybersecurity/), BASc (Jan 2020 - May 2022)
 - [Cybersecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html), MSCSIA (due August 2025)
 
-### 💼 Licenses
+### 💼 Licenses:
 - Florida Class E Standard Driver's License (exp 2027)
 - Florida Class D Unarmed Security Officer License (exp 03May2023)
 
-### 💂 Military
+### 💂 Military:
 - United States Army, 779th Engineering Battalion, 83rd Troop Command, 144th Transportation Company, Marianna, Florida
 - Initially enlisted as 91W Medic, I agreed to switch to 88M Motor Transport Operator to be assigned to a unit closer to my family.
 - Discharged following injuries received while on duty.
 - Qualified: M16A2, M249, M240B, M203, M1919, Grenade Throw, Rifle-Bayonet, Pugils, Hand-to-Hand
 - Obtained college credit for US Army Transcripts
 
-### 🛡️ Certifications
+### 🛡️ Certifications:
 - ISC² Certified in Cybersecurity (exp 31Aug2026)
 - Department of Defense Cybersecurity Awareness 2022 (no exp)
 - C)DRE: Certified Disaster Recovery Engineer (exp 06Dec2023)
@@ -37,14 +37,14 @@
 - Other: Cisco, EyesofNetwork
 - I don't like Apple products but they're on the list to learn anyway.
 
-### ⌨ Programming Languages and Software
+### ⌨ Programming Languages and Software:
 #### I'm working on this, there isn't much here yet
 
 - Software: Visual Studio, Netbeans, Adobe Creative Suite, Microsoft Office 365, VMWare, VirtualBox,
 - Languages: HTML, PHP, Java, Javascript, Python, CScript
 - [Tools](https://github.com/CodebenderCate/Hacking-Tools)
 
-### 🔭 I’m currently working on
+### 🔭 I’m currently working on:
 - CompTIA [A+](https://www.comptia.org/certifications/a)
 - CompTIA [CYSA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 - CompTIA [CASP+](https://www.comptia.org/certifications/comptia-advanced-security-practitioner)
