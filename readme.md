@@ -99,7 +99,7 @@
 <a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/slt.png" width="65" height="65"/></a><br>
 <a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/isaca.png" width="65" height="65"/></a>
 <a href="https://www.issa.org/membership/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/issa.png" width="65" height="65"/></a>
-<a href="cyberstudents.org/about/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ncw.png" width="65" height="65"/></a>
+<a href="https://www.cyberstudents.org/about/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ncw.png" width="65" height="65"/></a>
 <a href="https://iacr.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/iacr.png" width="65" height="65"/></a>
 <a href="https://swe.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/swe.png" width="65" height="65"/></a>
 <a href="https://www.ndia.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ndia.png" width="65" height="65"/></a>
