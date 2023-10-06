@@ -11,7 +11,7 @@
 
 ### 💼 Licenses:
 - Florida Class E Standard Driver's License (exp 2027)
-- Florida Class D Unarmed Security Officer License (exp 03May2023)
+- Florida Class D Unarmed Security Officer License (exp 03 May 2025)
 
 ### 💂 Military:
 - United States Army, 779th Engineering Battalion, 83rd Troop Command, 144th Transportation Company, Marianna, Florida
