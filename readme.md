@@ -47,6 +47,7 @@
 ### 🔭 I’m currently working on:
 - CompTIA [A+](https://www.comptia.org/certifications/a)
 - CompTIA [CYSA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+- CompTIA [PenTest+](https://www.comptia.org/certifications/pentest)
 - CompTIA [CASP+](https://www.comptia.org/certifications/comptia-advanced-security-practitioner)
 
 ### 🌱 I’m currently learning from:
@@ -62,7 +63,6 @@
 - CompTIA [Security+](https://www.comptia.org/certifications/security)
 - CompTIA [Linux+](https://www.comptia.org/certifications/linux)
 - CompTIA [Network+](https://www.comptia.org/certifications/network)
-- CompTIA [PenTest+](https://www.comptia.org/certifications/pentest)
 - Cisco [CCNA](https://www.netacad.com/courses/networking)
 
 ### 🤔 I’m looking for help with:
