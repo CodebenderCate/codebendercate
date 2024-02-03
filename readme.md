@@ -44,6 +44,12 @@
 - Languages: HTML, PHP, Java, Javascript, Python, CScript
 - [Tools](https://github.com/CodebenderCate/Hacking-Tools)
 
+### ✍🏼 View my writing here:
+- [Medium](https://codebendercate.medium.com/)
+- [Substack](https://codebendercate.substack.com/)
+- CSNP [Two Factor Authentication – Another Layer of Security](https://www.csnp.org/post/two-factor-authentication-another-layer-of-security)
+- CSNP [Capture The Flag for Beginners](https://www.csnp.org/post/capture-the-flag-for-beginners)
+
 ### 🔭 I’m currently working on:
 - CompTIA [A+](https://www.comptia.org/certifications/a)
 - CompTIA [CYSA+](https://www.comptia.org/certifications/cybersecurity-analyst)
