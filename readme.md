@@ -77,7 +77,7 @@
 - NCL Code Mug
 
 ### 🏆 Competitions I frequent:
-- Please see [THIS](https://github.com/CodebenderCate/Cybersecurity-Information/blob/main/Collegiate%20Cyber%20Competitions.md)) repo for more details
+- Please see [THIS](https://github.com/CodebenderCate/Cybersecurity-Information/blob/main/Collegiate%20Cyber%20Competitions.md) repo for more details
 - I am working on updating my [write-ups](https://github.com/CodebenderCate/Write-Ups)
 
 ### 💬 Ask me about
