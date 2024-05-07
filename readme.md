@@ -98,7 +98,7 @@
 <a href="https://www.wgu.edu/online-it-degrees/cyber-club.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wgucyber.png" width="75" height="75"/></a>
 <a href="https://www.wgu.edu/online-it-degrees/women-in-tech.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wit_wgu.png" width="75" height="75"/></a>
 <a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/RHP.png" width="75" height="75"/></a>
-<a href="https://nationalcyberleague.org/competition"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/NCL.png" width="75" height="75"/></a>
+<a href="https://nationalcyberleague.org/competition"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/NCL.jpg" width="75" height="75"/></a>
 <a href="https://connect.comptia.org/membership"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/Comptia.png" width="75" height="75"/></a>
 <a href="https://www.wicysmilitary.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WiCyS.png" width="75" height="75"/></a>
 <a href="https://womenscyberjutsu.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WCJ.png" width="75" height="75"/></a>
