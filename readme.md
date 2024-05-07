@@ -60,7 +60,7 @@
 ### 🔮 In the future I plan to work on:
 - HackTheBox Academy [Certifications](https://academy.hackthebox.com/preview/certifications)
 - Cisco [CCNA](https://www.netacad.com/courses/networking)
-- [Splunk Certified Cybersecurity Defense Analyst](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html)
+- Splunk [Certified Cybersecurity Defense Analyst](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html)
 
 ### 🌱 I’m currently learning from:
 #### I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
