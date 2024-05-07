@@ -102,8 +102,8 @@
 <a href="https://connect.comptia.org/membership"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/Comptia.png" width="65" height="65"/></a>
 <a href="https://www.wicysmilitary.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WiCyS.png" width="65" height="65"/></a>
 <a href="https://womenscyberjutsu.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WCJ.png" width="65" height="65"/></a>
-<a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/AFCEABA.png" width="65" height="65"/></a><br></br>
-<a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/slt.png" width="65" height="65"/></a><br>
+<a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/AFCEABA.png" width="65" height="65"/></a><br>
+<a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/slt.png" width="65" height="65"/></a>
 <a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/isaca.png" width="65" height="65"/></a>
 <a href="https://www.issa.org/membership/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/issa.png" width="65" height="65"/></a>
 <a href="https://www.cyberstudents.org"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ncw.png" width="65" height="65"/></a>
