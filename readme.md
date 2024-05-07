@@ -93,24 +93,24 @@
 ## <div align="center" dir="auto"> 🤝 Professional Affiliations and Memberships 🤝</div>
 #### <div align="center" dir="auto"> Clicking the image will redirect you to the affiliate website</div><br>
 <div align="center" dir="auto">
-<a href="https://www.securityhonorsociety.org/student-applicants-page.html"><img src="https://github.com/CodebenderCate/codebendercate/blob/main/Images/OSS.png" width="65" height="65"/></a>
-<a href="https://www.nsls.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/nsls.png" width="65" height="65"/></a>
-<a href="https://www.wgu.edu/online-it-degrees/cyber-club.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wgucyber.png" width="65" height="65"/></a>
-<a href="https://www.wgu.edu/online-it-degrees/women-in-tech.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wit_wgu.png" width="65" height="65"/></a>
-<a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/RHP.png" width="65" height="65"/></a>
-<a href="https://nationalcyberleague.org/competition"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/NCL.png" width="65" height="65"/></a>
-<a href="https://connect.comptia.org/membership"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/Comptia.png" width="65" height="65"/></a>
-<a href="https://www.wicysmilitary.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WiCyS.png" width="65" height="65"/></a>
-<a href="https://womenscyberjutsu.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WCJ.png" width="65" height="65"/></a>
-<a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/AFCEABA.png" width="65" height="65"/></a><br>
-<a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/slt.png" width="65" height="65"/></a>
-<a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/isaca.png" width="65" height="65"/></a>
-<a href="https://www.issa.org/membership/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/issa.png" width="65" height="65"/></a>
-<a href="https://www.cyberstudents.org"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ncw.png" width="65" height="65"/></a>
-<a href="https://iacr.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/iacr.png" width="65" height="65"/></a>
-<a href="https://swe.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/swe.png" width="65" height="65"/></a>
-<a href="https://www.ndia.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ndia.png" width="65" height="65"/></a>
-<a href="https://www.womenindefense.net/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wid.png" width="65" height="65"/></a>
-<a href="https://www.ntsa.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ntsa.png" width="65" height="65"/></a>
-<a href="https://www.emergingtechnologiesinstitute.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/eti.png" width="65" height="65"/></a>
+<a href="https://www.securityhonorsociety.org/student-applicants-page.html"><img src="https://github.com/CodebenderCate/codebendercate/blob/main/Images/OSS.png" width="75" height="75"/></a>
+<a href="https://www.nsls.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/nsls.png" width="75" height="75"/></a>
+<a href="https://www.wgu.edu/online-it-degrees/cyber-club.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wgucyber.png" width="75" height="75"/></a>
+<a href="https://www.wgu.edu/online-it-degrees/women-in-tech.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wit_wgu.png" width="75" height="75"/></a>
+<a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/RHP.png" width="75" height="75"/></a>
+<a href="https://nationalcyberleague.org/competition"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/NCL.png" width="75" height="75"/></a>
+<a href="https://connect.comptia.org/membership"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/Comptia.png" width="75" height="75"/></a>
+<a href="https://www.wicysmilitary.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WiCyS.png" width="75" height="75"/></a>
+<a href="https://womenscyberjutsu.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WCJ.png" width="75" height="75"/></a>
+<a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/AFCEABA.png" width="75" height="75"/></a><br>
+<a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/slt.png" width="75" height="75"/></a>
+<a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/isaca.png" width="75" height="75"/></a>
+<a href="https://www.issa.org/membership/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/issa.png" width="75" height="75"/></a>
+<a href="https://www.cyberstudents.org"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ncw.png" width="75" height="75"/></a>
+<a href="https://iacr.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/iacr.png" width="75" height="75"/></a>
+<a href="https://swe.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/swe.png" width="75" height="75"/></a>
+<a href="https://www.ndia.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ndia.png" width="75" height="75"/></a>
+<a href="https://www.womenindefense.net/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wid.png" width="75" height="75"/></a>
+<a href="https://www.ntsa.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ntsa.png" width="75" height="75"/></a>
+<a href="https://www.emergingtechnologiesinstitute.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/eti.png" width="75" height="75"/></a>
 </div>
