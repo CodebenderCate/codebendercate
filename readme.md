@@ -93,6 +93,7 @@
 ## <div align="center" dir="auto"> 🤝 Professional Affiliations and Memberships 🤝</div>
 #### <div align="center" dir="auto"> Clicking the image will redirect you to the affiliate website</div><br>
 <div align="center" dir="auto">
+<a href="https://www.securityhonorsociety.org/student-applicants-page.html"><img src="https://github.com/CodebenderCate/codebendercate/blob/main/Images/OSS.png" width="65" height="65"/></a>
 <a href="https://www.nsls.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/nsls.png" width="65" height="65"/></a>
 <a href="https://www.wgu.edu/online-it-degrees/cyber-club.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wgucyber.png" width="65" height="65"/></a>
 <a href="https://www.wgu.edu/online-it-degrees/women-in-tech.html"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wit_wgu.png" width="65" height="65"/></a>
