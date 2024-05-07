@@ -9,9 +9,10 @@
 - [Cybersecurity, Information Security](https://pensacolastate.smartcatalogiq.com/2020-2021/catalog/programs-of-study/baccalaureate-degrees/baccalaureate-degree-programs/bas-cybersecurity/), BASc (Jan 2020 - May 2022)
 - [Computer Information Systems](https://pensacolastate.smartcatalogiq.com/2018-2019/catalog/academic-programs/associate-in-arts-program/associate-in-arts-programs-of-study/computer-information-systems-advising-track/), AA (Oct 2018- Dec 2019)
 
-### 💼 Licenses:
+### 💼 Licenses and Professional Certificates:
 - Florida Class E Standard Driver's License (exp 2027)
 - Florida Class D Unarmed Security Officer License (exp 03 May 2025)
+- Florida Substitute Teaching Certificate (exp 03 June 2028)
 
 ### 💂 Military:
 - United States Army, 779th Engineering Battalion, 83rd Troop Command, 144th Transportation Company, Marianna, Florida
@@ -20,14 +21,12 @@
 - Qualified: M16A2, M249, M240B, M203, M1919, Grenade Throw, Rifle-Bayonet, Pugils, Hand-to-Hand
 - Obtained college credit for US Army Transcripts
 
-### 🛡️ Certifications:
+### 🛡️ Industry Certifications:
 - ISC² Certified in Cybersecurity (exp 31Aug2026)
-- Department of Defense Cybersecurity Awareness 2022 (no exp)
-- C)DRE: Certified Disaster Recovery Engineer (exp 06Dec2023)
+- C)CSA: Certified Cyber Security Analyst (exp 24Oct2024)
 - C)ISSO: Certified Information Systems Security Officer (exp 30Jul2024)
 - C)SA1: Certified Security Awareness 1 (exp 30Jul2024)
 - C)DFE: Certified Digital Forensics Examiner (exp 30Jul2024)
-- C)CSA: Certified Cyber Security Analyst (exp 24Oct2024)
 - TestOut Ethical Hacker Pro Certification (no exp)
 - TestOut Server Pro 2016: Install and Storage Certification (no exp)
 
@@ -55,6 +54,13 @@
 - CompTIA [CSIS](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-specialist-csis-stackable-certification)
 - CompTIA [CSIE](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-expert-csie-stackable)
 - More Information on [Stackable Certifications](https://www.comptia.org/certifications/which-certification/stackable-certifications)
+- [DoD Cyber Awareness Challenge 2024](https://public.cyber.mil/training/cyber-awareness-challenge/)
+- DoD Cyber Workforce Framework (DCWF) Systems Security Analyst (via JKO JTEN LMS)
+
+### 🔮 In the future I plan to work on:
+- HackTheBox Academy [Certifications](https://academy.hackthebox.com/preview/certifications))
+- Cisco [CCNA](https://www.netacad.com/courses/networking)
+- [Splunk Certified Cybersecurity Defense Analyst](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html)
 
 ### 🌱 I’m currently learning from:
 #### I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
@@ -64,10 +70,6 @@
 - [PicoCTF](https://play.picoctf.org/users/Codebender_Cate)
 - [TryHackMe](https://tryhackme.com/p/CodebenderCate)
 - [SplunkWork+ For Veterans](https://workplus.splunk.com/veterans)
-
-### 🔮 In the future I plan to work on:
-- HackTheBox Academy [Certifications](https://academy.hackthebox.com/preview/certifications))
-- Cisco [CCNA](https://www.netacad.com/courses/networking)
 
 ### 🤔 I’m looking for help with:
 - Reverse Engineering Binary Files
