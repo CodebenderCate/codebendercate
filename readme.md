@@ -54,7 +54,7 @@
 - CompTIA [CSIS](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-specialist-csis-stackable-certification)
 - CompTIA [CSIE](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-expert-csie-stackable)
 - More Information on [Stackable Certifications](https://www.comptia.org/certifications/which-certification/stackable-certifications)
-- [DoD Cyber Awareness Challenge 2024](https://public.cyber.mil/training/cyber-awareness-challenge/)
+- DoD [Cyber Awareness Challenge 2024](https://public.cyber.mil/training/cyber-awareness-challenge/)
 - DoD Cyber Workforce Framework (DCWF) Systems Security Analyst (via JKO JTEN LMS)
 
 ### 🔮 In the future I plan to work on:
