@@ -58,7 +58,7 @@
 - DoD Cyber Workforce Framework (DCWF) Systems Security Analyst (via JKO JTEN LMS)
 
 ### 🔮 In the future I plan to work on:
-- HackTheBox Academy [Certifications](https://academy.hackthebox.com/preview/certifications))
+- HackTheBox Academy [Certifications](https://academy.hackthebox.com/preview/certifications)
 - Cisco [CCNA](https://www.netacad.com/courses/networking)
 - [Splunk Certified Cybersecurity Defense Analyst](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html)
 
