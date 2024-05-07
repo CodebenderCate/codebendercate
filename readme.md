@@ -87,7 +87,7 @@
 - She/Her/Hers
 
 ### ⚡ Fun facts:
-- I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing pattern, which made me a very talented, accidental, unofficial OSINT investigator.
+- I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing patterns, which made me a very talented investigator
 - I love taking things apart, finding out how they work, changing how they work, and repairing or improving them in ways for which they were not originally designed. As a result, I generally can look at something and know how to assemble or disassemble it with ease. I will still use instructions or guides, but it is rare that I need them.
 
 ## <div align="center" dir="auto"> 🤝 Professional Affiliations and Memberships 🤝</div>
