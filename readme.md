@@ -51,7 +51,7 @@
 
 ### 🔭 I’m currently working on:
 
-- See my [NOTES](https://github.com/CodebenderCate/Notes)
+- See my [notes](https://github.com/CodebenderCate/Notes)
 - CompTIA [CSIS](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-specialist-csis-stackable-certification)
 - CompTIA [CSIE](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-expert-csie-stackable)
 - More Information on [Stackable Certifications](https://www.comptia.org/certifications/which-certification/stackable-certifications)
