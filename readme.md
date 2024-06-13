@@ -65,11 +65,17 @@
 
 ### 🌱 I’m currently learning from:
 #### I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
+- [Wiley Efficient Learning](https://login.admission-tests.wiley.com/wel/login)
+- [HackerSploit Academy](https://hackersploit-academy.thinkific.com/collections)
 - [BugCrowd](https://bugcrowd.com/Codebender_Cate)
 - [Codecademy](https://www.codecademy.com/profiles/Codebender_Cate)
 - [Hack The Box](https://app.hackthebox.com/users/597984)
-- [PicoCTF](https://play.picoctf.org/users/Codebender_Cate)
 - [TryHackMe](https://tryhackme.com/p/CodebenderCate)
+- [PicoCTF](https://play.picoctf.org/users/Codebender_Cate)
+- [Cisco Skills for All](https://skillsforall.com/)
+- [INE](https://my.ine.com/)
+- [SANS Cyber Aces](https://www.sans.org/cyberaces/)
+- [AWS Skill Builder](https://aws.amazon.com/training/digital/)
 - [SplunkWork+ For Veterans](https://workplus.splunk.com/veterans)
 
 ### 🦉 WGU Resources I'm currently learning from (requires WGU SSO)
