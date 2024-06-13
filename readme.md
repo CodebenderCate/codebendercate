@@ -72,10 +72,17 @@
 - [TryHackMe](https://tryhackme.com/p/CodebenderCate)
 - [SplunkWork+ For Veterans](https://workplus.splunk.com/veterans)
 
+### 🦉 WGU Resources I'm currently learning from (requires WGU SSO)
+- [Pluralsight](https://lrps.wgu.edu/provision/114583870)
+- [Linkedin Learning](https://lrps.wgu.edu/provision/250414478)
+- [Percipio (Includes CyberVista)](https://lrps.wgu.edu/provision/277319445)
+- [WGU College of IT Audio Series](https://www.wgu.edu/online-it-degrees/it-audio-series.html)
+
 ### 🤔 I’m looking for help with:
-- Reverse Engineering Binary Files
+- Reverse Engineering
+- Binary Files
 - Binary Exploitation
-- NCL Code Mug
+- [NCL Code Mug](https://github.com/CodebenderCate/codebendercate/blob/main/Images/NCL%20Code%20Mug.jpg)
 
 ### 🏆 Competitions I frequent:
 - Please see [THIS](https://github.com/CodebenderCate/Cybersecurity-Information/blob/main/Collegiate%20Cyber%20Competitions.md) repo for more details
