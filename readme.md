@@ -83,6 +83,7 @@
 - [Linkedin Learning](https://lrps.wgu.edu/provision/250414478)
 - [Percipio (Includes CyberVista)](https://lrps.wgu.edu/provision/277319445)
 - [WGU College of IT Audio Series](https://www.wgu.edu/online-it-degrees/it-audio-series.html)
+- [Udemy Business](https://wgu.udemy.com/)
 
 ### 🤔 I’m looking for help with:
 - Reverse Engineering
