@@ -9,18 +9,6 @@
 - [Cybersecurity, Information Security](https://pensacolastate.smartcatalogiq.com/2020-2021/catalog/programs-of-study/baccalaureate-degrees/baccalaureate-degree-programs/bas-cybersecurity/), BASc (Jan 2020 - May 2022)
 - [Computer Information Systems](https://pensacolastate.smartcatalogiq.com/2018-2019/catalog/academic-programs/associate-in-arts-program/associate-in-arts-programs-of-study/computer-information-systems-advising-track/), AA (Oct 2018- Dec 2019)
 
-### 💂 Military HIstory:
-- United States Army, 779th Engineering Battalion, 83rd Troop Command, 144th Transportation Company, Marianna, Florida
-- Initially enlisted as 91W Medic, I agreed to switch to 88M Motor Transport Operator to be assigned to a unit closer to my family.
-- Discharged following injuries received while on duty.
-- Qualified: M16A2, M249, M240B, M203, M1919, Grenade Throw, Rifle-Bayonet, Pugils, Hand-to-Hand
-- Obtained college credit for US Army Transcripts
-
-### 💼 Licenses and Professional Certificates:
-- Florida Class E Standard Driver's License (exp 2027)
-- Florida Class D Unarmed Security Officer License (exp 03 May 2025)
-- Florida Substitute Teaching Certificate (exp 03 June 2028)
-
 ### 🛡️ Industry Certifications:
 - ISC² Certified in Cybersecurity (exp 31Aug2026)
 - C)CSA: Certified Cyber Security Analyst (exp 24Oct2024)
@@ -29,6 +17,16 @@
 - C)DFE: Certified Digital Forensics Examiner (exp 30Jul2024)
 - TestOut Ethical Hacker Pro Certification (no exp)
 - TestOut Server Pro 2016: Install and Storage Certification (no exp)
+
+### 💼 Licenses and Professional Certificates:
+- Florida Class E Standard Driver's License (exp 2027)
+- Florida Class D Unarmed Security Officer License (exp 03 May 2025)
+- Florida Substitute Teaching Certificate (exp 03 June 2028)
+
+### 💂 Military History:
+- United States Army, 779th Engineering Battalion, 83rd Troop Command, 144th Transportation Company, Marianna, Florida
+- Discharged following injuries received while on duty.
+- Obtained college credit for US Army Transcripts
 
 ### 💻 Operating Systems:
 - Linux: Android, Kali, Debian, Ubuntu, Gentoo, Fedora, Red Hat
