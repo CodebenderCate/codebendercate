@@ -115,8 +115,8 @@
 <a href="https://connect.comptia.org/membership"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/Comptia.png" width="75" height="75"/></a>
 <a href="https://www.wicysmilitary.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WiCyS.png" width="75" height="75"/></a>
 <a href="https://womenscyberjutsu.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/WCJ.png" width="75" height="75"/></a>
-<a href="https://www.playcyber.com/league"><img src="https://github.com/CodebenderCate/codebendercate/blob/main/Images/PCGL.png" width="75" height="75"/></a>
-<a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/AFCEABA.png" width="75" height="75"/></a><br>
+<a href="https://www.playcyber.com/league"><img src="https://github.com/CodebenderCate/codebendercate/blob/main/Images/PCGL.png" width="75" height="75"/></a><br>
+<a href="https://pensacola.afceachapters.org/welcome-afcea-blue-angels-pensacola-chapter"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/AFCEABA.png" width="75" height="75"/></a>
 <a href="https://itgulfcoast.org/"><img src="https://github.com/CodebenderCate/codebendercate/blob/main/Images/ITGC.png" width="75" height="75"/></a>
 <a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/slt.png" width="75" height="75"/></a>
 <a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/isaca.png" width="75" height="75"/></a>
