@@ -11,10 +11,6 @@
 
 ### 🛡️ Industry Certifications:
 - ISC² Certified in Cybersecurity (exp 31Aug2026)
-- C)CSA: Certified Cyber Security Analyst (exp 24Oct2024)
-- C)ISSO: Certified Information Systems Security Officer (exp 30Jul2024)
-- C)SA1: Certified Security Awareness 1 (exp 30Jul2024)
-- C)DFE: Certified Digital Forensics Examiner (exp 30Jul2024)
 - TestOut Ethical Hacker Pro Certification (no exp)
 - TestOut Server Pro 2016: Install and Storage Certification (no exp)
 
@@ -48,12 +44,10 @@
 - CSNP [Capture The Flag for Beginners](https://www.csnp.org/post/capture-the-flag-for-beginners)
 
 ### 🔭 I’m currently working on:
-
 - See my [Notes](https://github.com/CodebenderCate/Notes)
-- CompTIA [CSIS](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-specialist-csis-stackable-certification)
+- [ISACA CISM](https://www.isaca.org/credentialing/cism?utm_source=google&utm_medium=cpc&utm_campaign=cism-evergreen&utm_term=cert_cism_na_conv_google_cpc_branded_ext&utm_content=null_null&gad_source=1&gclid=CjwKCAiA-ty8BhA_EiwAkyoa33i1_QYELz7rs4cqKSPa1hugyCBUBJTOWJw4hNswtFJd8LA2Koe_txoCzJMQAvD_BwE#1)
 - CompTIA [CSIE](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-expert-csie-stackable)
 - More Information on [Stackable Certifications](https://www.comptia.org/certifications/which-certification/stackable-certifications)
-- DoD [Cyber Awareness Challenge 2024](https://public.cyber.mil/training/cyber-awareness-challenge/)
 - DoD Cyber Workforce Framework (DCWF) Systems Security Analyst (via JKO JTEN LMS)
 
 ### 🔮 In the future I plan to work on:
@@ -63,7 +57,7 @@
 
 ### 🌱 I’m currently learning from:
 #### I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
-- [Wiley Efficient Learning](https://login.admission-tests.wiley.com/wel/login)
+- [Wiley Test Banks]([https://login.admission-tests.wiley.com/wel/login](https://study.learning.wiley.com/))
 - [HackerSploit Academy](https://hackersploit-academy.thinkific.com/collections)
 - [BugCrowd](https://bugcrowd.com/Codebender_Cate)
 - [Codecademy](https://www.codecademy.com/profiles/Codebender_Cate)
@@ -87,7 +81,7 @@
 - Reverse Engineering
 - Binary Files
 - Binary Exploitation
-- [NCL Code Mug](https://github.com/CodebenderCate/codebendercate/blob/main/Images/NCL%20Code%20Mug.jpg)
+- Decoding the [NCL Code Mug](https://github.com/CodebenderCate/codebendercate/blob/main/Images/NCL%20Code%20Mug.jpg)
 
 ### 🏆 Competitions I frequent:
 - Please see [THIS](https://github.com/CodebenderCate/Cybersecurity-Information/blob/main/Collegiate%20Cyber%20Competitions.md) repo for more details
@@ -98,10 +92,11 @@
 
 ### 😄 Pronouns:
 - She/Her/Hers
+- Try/Me
+- permit pronoun any any
 
 ### ⚡ Fun facts:
-- I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing patterns, which made me a very talented investigator
-- I love taking things apart, finding out how they work, changing how they work, and repairing or improving them in ways for which they were not originally designed. As a result, I generally can look at something and know how to assemble or disassemble it with ease. I will still use instructions or guides, but it is rare that I need them.
+- I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing patterns, which made me very talented with puzzles and investigations.
 
 ## <div align="center" dir="auto"> 🤝 Professional Affiliations and Memberships 🤝</div>
 #### <div align="center" dir="auto"> Clicking the image will redirect you to the affiliate website</div><br>
