@@ -57,7 +57,7 @@
 
 ### 🌱 I’m currently learning from:
 #### I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
-- [Wiley Test Banks]([https://login.admission-tests.wiley.com/wel/login](https://study.learning.wiley.com/))
+- [Wiley Test Banks](https://study.learning.wiley.com/)
 - [HackerSploit Academy](https://hackersploit-academy.thinkific.com/collections)
 - [BugCrowd](https://bugcrowd.com/Codebender_Cate)
 - [Codecademy](https://www.codecademy.com/profiles/Codebender_Cate)
