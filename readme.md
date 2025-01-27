@@ -67,7 +67,7 @@
 - [Cisco Skills for All](https://skillsforall.com/)
 - [INE](https://my.ine.com/)
 - [SANS Cyber Aces](https://www.sans.org/cyberaces/)
-- [AWS Skill Builder](https://aws.amazon.com/training/digital/)
+- [AWS Skill Builder](https://explore.skillbuilder.aws/learn))
 - [SplunkWork+ For Veterans](https://workplus.splunk.com/veterans)
 
 ### 🦉 WGU Resources I'm currently learning from (requires WGU SSO)
