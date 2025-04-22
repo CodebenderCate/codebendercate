@@ -127,3 +127,5 @@
 <a href="https://www.bsidespensacola.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/BSPC.png" width="75" height="75"/></a> 
 
 </div>
+
+<!-- GitAds-Verify: W6K6166XQ3VJIV7YLRE3QQQXDJMELT4U -->
