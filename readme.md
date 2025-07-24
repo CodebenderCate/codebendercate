@@ -17,7 +17,7 @@
 
 ### 💼 Licenses and Professional Certificates:
 - Florida Class E Standard Driver's License (exp 2027)
-- Florida Class D Unarmed Security Officer License (exp 03 May 2025)
+- Florida Class D Unarmed Security Officer License (exp 03 May 2027)
 - Florida Substitute Teaching Certificate (exp 03 June 2028)
 
 ### 💂 Military History:
