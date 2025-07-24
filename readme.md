@@ -10,6 +10,7 @@
 - [Computer Information Systems](https://pensacolastate.smartcatalogiq.com/2018-2019/catalog/academic-programs/associate-in-arts-program/associate-in-arts-programs-of-study/computer-information-systems-advising-track/), AA (Oct 2018- Dec 2019)
 
 ### 🛡️ Industry Certifications:
+- CompTIA CySA+ (exp 23July2025)
 - ISC² Certified in Cybersecurity (exp 31Aug2026)
 - TestOut Ethical Hacker Pro Certification (no exp)
 - TestOut Server Pro 2016: Install and Storage Certification (no exp)
