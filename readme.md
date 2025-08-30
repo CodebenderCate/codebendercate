@@ -124,7 +124,7 @@
 <a href="https://www.womenindefense.net/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/wid.png" width="75" height="75"/></a>
 <a href="https://www.ntsa.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ntsa.png" width="75" height="75"/></a>
 <a href="https://www.emergingtechnologiesinstitute.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/eti.png" width="75" height="75"/></a>
-<a href="https://www.dcgulfcoast.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/DC850.png" width="75" height="75"/></a>
-<a href="https://www.bsidespensacola.org/"><img src="https://pbs.twimg.com/profile_images/1957198752642404353/Xkz9pixv.jpg" width="75" height="75"/></a> 
+<a href="https://www.dcgulfcoast.org/"><img src="https://pbs.twimg.com/profile_images/1957198752642404353/Xkz9pixv.jpg" width="75" height="75"/></a>
+<a href="https://www.bsidespensacola.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/bsidespensacola.png" width="75" height="75"/></a> 
 
 </div>
