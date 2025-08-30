@@ -97,7 +97,7 @@
 - permit pronoun any any
 
 ### ⚡ Fun facts:
-- I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing patterns, which made me very talented with puzzles and investigations.
+- I am great at cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing patterns, which made me very talented with puzzles and investigations.
 
 ## <div align="center" dir="auto"> 🤝 Professional Affiliations and Memberships 🤝</div>
 #### <div align="center" dir="auto"> Clicking the image will redirect you to the affiliate website</div><br>
