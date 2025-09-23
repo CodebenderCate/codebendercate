@@ -116,7 +116,7 @@
 <a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/slt.png" width="75" height="75"/></a>
 <a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/isaca.png" width="75" height="75"/></a>
 <a href="https://www.issa.org/membership/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/issa.png" width="75" height="75"/></a>
-<a href="https://www.cyberstudents.org"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ncw.png" width="75" height="75"/></a><br>
+<a href="https://www.cyberstudents.org"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ncw.png" width="75" height="75"/></a>
 <a href="https://iacr.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/iacr.png" width="75" height="75"/></a>
 <a href="https://swe.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/swe.png" width="75" height="75"/></a>
 <a href="https://www.ndia.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ndia.png" width="75" height="75"/></a>
@@ -125,5 +125,4 @@
 <a href="https://www.emergingtechnologiesinstitute.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/eti.png" width="75" height="75"/></a>
 <a href="https://www.dcgulfcoast.org/"><img src="https://github.com/CodebenderCate/codebendercate/blob/main/Images/DCGC.jpg" width="75" height="75"/></a>
 <a href="https://www.bsidespensacola.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/BSPC.png" width="75" height="75"/></a> 
-
 </div>
