@@ -63,7 +63,6 @@
 - [BugCrowd](https://bugcrowd.com/Codebender_Cate)
 - [Codecademy](https://www.codecademy.com/profiles/Codebender_Cate)
 - [Hack The Box](https://app.hackthebox.com/users/597984)
-- [TryHackMe](https://tryhackme.com/p/CodebenderCate)
 - [PicoCTF](https://play.picoctf.org/users/Codebender_Cate)
 - [Cisco Skills for All](https://skillsforall.com/)
 - [INE](https://my.ine.com/)
@@ -95,9 +94,6 @@
 - She/Her/Hers
 - Try/Me
 - permit pronoun any any
-
-### ⚡ Fun facts:
-- I am great at cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing patterns, which made me very talented with puzzles and investigations.
 
 ## <div align="center" dir="auto"> 🤝 Professional Affiliations and Memberships 🤝</div>
 #### <div align="center" dir="auto"> Clicking the image will redirect you to the affiliate website</div><br>
