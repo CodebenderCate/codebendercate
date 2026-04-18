@@ -120,5 +120,5 @@
 <a href="https://www.ntsa.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/ntsa.png" width="75" height="75"/></a>
 <a href="https://www.emergingtechnologiesinstitute.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/eti.png" width="75" height="75"/></a>
 <a href="https://www.dcgulfcoast.org/"><img src="https://github.com/CodebenderCate/codebendercate/blob/main/Images/DCGC.jpg" width="75" height="75"/></a>
-<a href="https://www.bsidespensacola.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/BSPC.png" width="75" height="75"/></a> 
+<a href="https://bsidespensacola.org/"><img src="https://github.com/CodebenderCate/CodebenderCate/blob/main/Images/BSPC.png" width="75" height="75"/></a> 
 </div>
