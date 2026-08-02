@@ -4,6 +4,13 @@
 
 <div align="center" dir="auto">🖖"<i>Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide</i>"🖖</div>
 
+<div align="center" dir="auto">
+<br>
+<a href="https://codebendercate.github.io/codebendercate/music/"><img src="https://img.shields.io/badge/%E2%99%AB%20PLAY-VampireFreaks%20Music%20Player%20%C2%B7%202007-cc0000?style=for-the-badge&labelColor=000000" alt="Play the VampireFreaks Music Player"/></a>
+<br>
+<sub><i>the Flash player from my old MySpace, running on Ruffle</i></sub>
+</div>
+
 ### 🎓 Education:
 - [Cybersecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html), MSCSIA (due Dec 2026)
 - [Cybersecurity, Information Security](https://pensacolastate.smartcatalogiq.com/2020-2021/catalog/programs-of-study/baccalaureate-degrees/baccalaureate-degree-programs/bas-cybersecurity/), BASc (Jan 2020 - May 2022)

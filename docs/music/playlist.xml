@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  The VampireFreaks / vfradio station playlist as it stood on 30 June 2007,
+  recovered from the Wayback Machine capture of vfradio.com.
+
+  Only the URL attributes differ from the original: each now points at the
+  Wayback copy of the MP3 rather than vfradio.com, which no longer resolves.
+  Attribute names and track order are untouched - they are exactly what the
+  player's ActionScript reads.
+-->
+
+<player showDisplay="yes" showPlaylist="yes" autoStart="1">
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2007-03/Modulate_-_Skullfuck.mp3" artist="Modulate" songname="Skullfuck" band_user_name="Modulate"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2007-03/thegothsicles_-_KonamiCodeIV.mp3" artist="The Gothsicles" songname="Konami Code IV" band_user_name="thegothsicles"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2007-03/TheCruxshadows_Birthday.mp3" artist="The Cruxshadows" songname="Birthday" band_user_name="thecruxshadows"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2007-03/Assemblage23-Binary.mp3" artist="Assemblage 23" songname="Binary" band_user_name="Assemblage23"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2007-03/Combichrist-Giveheadifyougotit.mp3" artist="Combichrist" songname="Give Head if you got it" band_user_name="combichrist"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2007-03/Seabound-OctoberSong.mp3" artist="Seabound" songname="October Song" band_user_name="Seabound"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2007-03/Apoptygma%20Berzerk-InThisTogether-FlipsideClubMix.mp3" artist="Apoptygma Berzerk" songname="In This Together (flipside club mix)" band_user_name="ApoptygmaBerzerk"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2006-04-22/ZombieGirl-CreepCrawler.mp3" artist="Zombie Girl" songname="Creepy Crawler" band_user_name="Official-Zombie-Girl"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2006-04-22/MSI-str8_to_video_combichrist.mp3" artist="Mindless Self Indulgence" songname="Str8 to Video (Combichrist mix)" band_user_name="msi"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/xp8/MuvYourDolly.mp3" artist="XP8" songname="Muv Your Dolly" band_user_name="xp8"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2006-02-22/leaetherstrip_suicidebombers.mp3" artist="Leaetherstrip" songname="Suicide Bombers (album edit)" band_user_name="Leaetherstrip"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/Syrian-Navigation.mp3" artist="Syrian" songname="Navigation (Delobbo mix)" band_user_name="Syrian"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2006-02-10/grendel_zombienation.mp3" artist="Grendel" songname="ZombieNation [v.2k5]" band_user_name="VLRK"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2006-02-22/suicidecommando_faceofdeath_blindragemix.mp3" artist="Suicide Commando" songname="Face of Death (Blind Rage Mix)" band_user_name="SuicideCommando"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/LightsOfEuphoria-OneNation.mp3" artist="Lights of Euphoria" songname="One Nation (club mix)" band_user_name="LOE"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/MindInABox-OutOfTime.mp3" artist="Mind.In.A.Box" songname="Out of Time" band_user_name="miab"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2006-02-10/vnvnation_chrome.mp3" artist="VNV Nation" songname="Chrome" band_user_name="VNVnation"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/Ayria-Revenge.mp3" artist="Ayria" songname="My Revenge on the World" band_user_name="Ayria"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2005-11-22/systemsyn_burningout.mp3" artist="System Syn" songname="Burning Out" band_user_name="system_syn"/>
+  <track URL="https://web.archive.org/web/2007id_/http://vfradio.com/musicplayer/mp3z/2005-11-22/godmodule_falsepretense.mp3" artist="God Module" songname="False Pretense" band_user_name="vorhees"/>
+</player>

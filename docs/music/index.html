@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VampireFreaks Music Player :: 2007</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 20px 16px;
+    background: #000; color: #ccc;
+    font: 11px/1.6 Verdana, Arial, Helvetica, sans-serif;
+    display: flex; flex-direction: column; align-items: center;
+  }
+  h1 {
+    font-size: 12px; text-transform: uppercase; letter-spacing: 2px;
+    color: #ff2222; margin: 0 0 4px;
+  }
+  .sub { color: #777; margin: 0 0 16px; }
+  #stage { width: 370px; max-width: 100%; }
+  #ruffle-host { width: 100%; aspect-ratio: 370 / 212; }
+  #ruffle-host > * { width: 100%; height: 100%; }
+  #fallback {
+    display: none; border: 1px solid #3a3a3a; padding: 20px;
+    text-align: center; color: #777;
+  }
+  .note { max-width: 430px; color: #777; margin-top: 18px; text-align: center; }
+  a { color: #cc0000; }
+</style>
+</head>
+<body>
+
+<h1>VampireFreaks Music Player</h1>
+<p class="sub">vfradio station playlist &mdash; 30 June 2007</p>
+
+<div id="stage">
+  <div id="ruffle-host"></div>
+  <div id="fallback">
+    Ruffle could not start. It needs WebAssembly &mdash; try a current desktop browser.
+  </div>
+</div>
+
+<p class="note">
+  The original Flash player from my MySpace profile, running on
+  <a href="https://ruffle.rs">Ruffle</a>. Audio streams from the
+  <a href="https://web.archive.org/web/20070630072645/http://myspace.com/grimsfury">Wayback Machine</a>,
+  so tracks may take a moment to buffer.
+</p>
+
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+<script>
+(function () {
+  var host = document.getElementById('ruffle-host');
+
+  function fail() {
+    host.style.display = 'none';
+    document.getElementById('fallback').style.display = 'block';
+  }
+
+  if (!window.RufflePlayer) { fail(); return; }
+
+  window.RufflePlayer.config = {
+    // No JS bridge needed - the SWF only fetches its own playlist and audio.
+    allowScriptAccess: false,
+    // The player must reach playlist.xml and the archived MP3s.
+    allowNetworking: 'all',
+    // Flash needed a click to start audio anyway; the overlay makes that explicit
+    // and satisfies the browser's autoplay gesture requirement.
+    autoplay: 'on',
+    unmuteOverlay: 'visible',
+    contextMenu: false,
+    letterbox: 'on',
+    warnOnUnsupportedContent: false,
+    logLevel: 'error'
+  };
+
+  try {
+    var player = window.RufflePlayer.newest().createPlayer();
+    host.appendChild(player);
+    player.load({ url: 'music_player_local.swf' }).catch(fail);
+  } catch (e) {
+    fail();
+  }
+})();
+</script>
+</body>
+</html>
