@@ -6,9 +6,9 @@
 
 <div align="center" dir="auto">
 <br>
-<a href="https://codebendercate.github.io/codebendercate/music/"><img src="https://img.shields.io/badge/%E2%99%AB%20PLAY-VampireFreaks%20Music%20Player%20%C2%B7%202007-cc0000?style=for-the-badge&labelColor=000000" alt="Play the VampireFreaks Music Player"/></a>
+<a href="https://web.archive.org/web/20070630072645/http://myspace.com/grimsfury"><img src="https://img.shields.io/badge/%E2%99%AB%20PLAY-VampireFreaks%20Music%20Player%20%C2%B7%202007-cc0000?style=for-the-badge&labelColor=000000" alt="Play the VampireFreaks Music Player"/></a>
 <br>
-<sub><i>the Flash player from my old MySpace, running on Ruffle</i></sub>
+<sub><i>the Flash player from my old MySpace, still running on Ruffle</i></sub>
 </div>
 
 ### 🎓 Education:
