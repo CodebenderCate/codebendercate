@@ -36,7 +36,6 @@
 
 - Software: Visual Studio, Netbeans, Adobe Creative Suite, Microsoft Office 365, VMWare, VirtualBox,
 - Languages: HTML, PHP, Java, Javascript, Python, CScript
-- [Tools](https://github.com/CodebenderCate/Hacking-Tools)
 
 ### ✍🏼 View my writing here:
 - [Medium](https://codebendercate.medium.com/)
